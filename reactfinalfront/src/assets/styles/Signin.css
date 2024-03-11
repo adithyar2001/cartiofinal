@@ -1,0 +1,17 @@
+.register_card{
+    
+    width: 500px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input[type=radio]{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.signin{
+    background-image: url('https://cdn.dribbble.com/users/1100256/screenshots/7124464/media/94a5e074f80ae9466705cf4c833c3432.gif');
+}

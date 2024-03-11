@@ -1,0 +1,16 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 270px;
+    transition: transform 300ms;
+}
+.card:hover{
+    transform: scale(1.05) ;
+}
+.card-img-top{
+    padding: 10px;
+    height: 220px;
+
+}
+*{
+    text-decoration: none;
+}

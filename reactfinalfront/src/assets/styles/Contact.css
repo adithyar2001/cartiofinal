@@ -1,0 +1,64 @@
+.cop{
+    padding: 50px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+    
+    
+}
+.copimg{
+    height: 60px;
+}
+
+.cop1{
+    width: 300px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.cop1 p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+.cop1 div:nth-child(1){
+    display: flex;
+    justify-content: center;
+}
+.cop .cop1:nth-child(odd){
+    padding-top: 30px;
+}
+
+.for_gif {
+    margin-top: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://assets-v2.lottiefiles.com/a/1f1c5790-1177-11ee-9220-5f141f7daa72/CB1D9PQM2P.gif'); 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .contact_us_text p{
+    color: black;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    font-size: 80px;
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 0;
+    
+  }
+  .contact_us_text{
+    margin-bottom: 0;
+  }
+
+  

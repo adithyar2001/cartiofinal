@@ -1,0 +1,28 @@
+.cart-img{
+    height: 100px;
+
+}
+*{
+    text-decoration: none;
+}
+.cart_items{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cart_items div{
+    padding: 10px;
+}
+.cart_heading{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.without_item_img{
+    width: 300px;
+}

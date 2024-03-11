@@ -1,0 +1,33 @@
+.login_side_bg{
+    background-image: url(https://i.pinimg.com/originals/c8/23/5f/c8235f076870e7c9b9b1e30f68b531df.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.full_spot{
+    border-radius: 20px;
+    max-width: 800px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+input{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.login_bg{
+    background-image: url('https://cdn.dribbble.com/users/1100256/screenshots/7124464/media/94a5e074f80ae9466705cf4c833c3432.gif');
+}
+.col_2nd{
+    background: rgba(255, 255, 255, 0.886);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}

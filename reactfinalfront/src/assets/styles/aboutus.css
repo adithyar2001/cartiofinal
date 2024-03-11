@@ -1,0 +1,33 @@
+.top1{
+    height: 400px;
+}
+.top-bimg{
+    background-image: url('https://stylecaster.com/wp-content/uploads/2019/11/american-eagle-black-friday-.gif');    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.top-bimg-ab2{
+    background-image: url(https://media.tenor.com/6sjd441LIRIAAAAd/future.gif);    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headline-text{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.social-post{
+    height: 300px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.social-post:hover{
+    transform: scale(1.1);
+}
